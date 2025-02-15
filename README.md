@@ -21,7 +21,7 @@ The purpose of writing this software is to build a simple, functional client-ser
 
 By implementing this, I aim to improve my proficiency with network programming in Java and gain more experience with using GUI frameworks for creating interactive user interfaces.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-Z0OnCAWego)
 
 # Network Communication
 
